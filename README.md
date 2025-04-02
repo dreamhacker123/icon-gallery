@@ -15,6 +15,7 @@ A fullstack real-time image management app built with **React**, **Node.js**, **
 - Real-time sync using **Socket.IO**
 - Smooth UI with Tailwind CSS
 - Bat scripts for starting and resetting the app
+- Demo link: 
 
 ---
 
@@ -30,17 +31,12 @@ cd icon-gallery
 
 #### Backend `.env` (in `/server`):
 ```env
-DB_HOST=localhost
-DB_USERNAME=root
-DB_PASSWORD=your_password
-DB_NAME=icon_gallery
-PORT=6060
+REFER TO .env.example file
 ```
 
 #### Frontend `.env` (in `/icon-gallery-react`):
 ```env
-REACT_APP_API_BASE_URL=http://localhost:6060
-PORT=3000
+REFER TO .env.example file
 ```
 
 ### 3. 📂 Install Dependencies
