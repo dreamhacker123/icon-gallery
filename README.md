@@ -15,7 +15,8 @@ A fullstack real-time image management app built with **React**, **Node.js**, **
 - Real-time sync using **Socket.IO**
 - Smooth UI with Tailwind CSS
 - Bat scripts for starting and resetting the app
-- Demo link: 
+- Demo link: https://drive.google.com/file/d/1mnWacILuUAzerq8NKuLKdFOvUN4uuMDS/view?usp=drive_link
+- HOW TO START APP: https://drive.google.com/file/d/1CDFuGCcSNLwUU4kj0IW0fNHlMKZsP9_V/view?usp=sharing
 
 ---
 
