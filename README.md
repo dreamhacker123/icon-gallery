@@ -128,5 +128,3 @@ MIT
 
 ---
 
-> Made with ❤️ by Rohit & ChatGPT
-
